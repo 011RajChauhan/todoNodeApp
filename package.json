@@ -1,0 +1,17 @@
+{
+  "name": "todo_app_node",
+  "version": "1.0.0",
+  "description": "a todo application based on node and express",
+  "main": "index.js",
+  "dependencies":{
+	"express":"~4.11.0",
+	"ejs":"~2.1.4",
+	"cookie-session":"1.1.0",
+	"body-parser": "~1.10.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajan chauhan",
+  "license": "ISC"
+}
